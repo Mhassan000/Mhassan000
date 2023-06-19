@@ -5,11 +5,11 @@
 
 
 
-- 🌱 I’m currently learning ** Next.js | Blockchain**
+- 🌱 I’m currently learning **Next.js | Blockchain**
 
 - 👯 I’m looking to collaborate on **Next.js | React.js | Full-Stack Projects**
 
-- 💬 Ask me about ** JavaScript | React.js | Next.js **
+- 💬 Ask me about **JavaScript | React.js | Next.js**
 
 - 📫 How to reach me **hassanasif946@gmail.com**
 
