@@ -5,7 +5,7 @@
 
 
 
-- 🌱 I’m currently learning **Next.js | Blockchain**
+- 🌱 I’m currently learning **Generative AI | Blockchain | Metaverse** 
 
 - 👯 I’m looking to collaborate on **Next.js | React.js | Full-Stack Projects**
 
