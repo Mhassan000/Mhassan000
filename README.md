@@ -25,6 +25,5 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mhassan000&show_icons=true&locale=en&layout=compact" alt="Mhassan000" /></p>
 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Mhassan000)](https://git.io/streak-stats)
 
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Mhassan000)](https://git.io/streak-stats)
