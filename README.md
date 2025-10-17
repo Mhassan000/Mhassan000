@@ -1,15 +1,11 @@
 <h1 align="center">Hi 👋, I'm Muhammad Hassan</h1>
-<h3 align="center">Software Engineer 👨‍💻 , Aspiring GenAI & Blockchain Engineer.</h3>
+<h3 align="center">AI Automation & SaaS Developer | n8n, React, Next.js, Python, AI Agents.</h3>
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/680/0*7Q3yvSIv_t0ioJ-Z.gif">
-
-
 
 
 - 🌱 I’m currently learning **Generative AI | Agentic AI | LLMS** 
 
-- 👯 I’m looking to collaborate on **Next.js | React.js | Full-Stack Projects**
-
-- 💬 Ask me about **JavaScript | React.js | Next.js**
+- 👯 I’m looking to collaborate on **AI Automation | AI Agents | SaaS MVP | Next.js |  React.js | Full-Stack Projects**
 
 
 <h3 align="left">Languages and Tools:</h3>
